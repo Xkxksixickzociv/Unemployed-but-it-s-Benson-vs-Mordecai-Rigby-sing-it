@@ -1,0 +1,31 @@
+{
+	"storyName": "irregular encounter",
+	"hideFreeplay": false,
+	"difficulties": "Hard",
+	"weekBackground": "regular",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"morde",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"unemployed",
+			"benson",
+			[
+				175,
+				13,
+				53
+			]
+		]
+	],
+	"weekName": "regular"
+}
